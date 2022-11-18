@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @ainsgordon, Ainsley Gordon
+- My favorite coding languages are Java, Python, SQL, and PHP
 
 
 
