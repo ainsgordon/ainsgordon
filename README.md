@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ainsgordon
-- 👀 I’m interested in creating webpages
-- 🌱 I’m currently learning React
+
 
 
 <!---
