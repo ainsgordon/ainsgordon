@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ainsgordon
+- 👋 Hi, I’m @ainsgordon, Ainsley Gordon
 
 
 
